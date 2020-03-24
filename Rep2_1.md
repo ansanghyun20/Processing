@@ -8,6 +8,7 @@ void setup(){
 }
 int i, a=1, sp=1;
 void draw() {
+  fill(0,0,255);
   background(255,255,0);
   if(keyPressed) a= key-'0';
   text("Graphics", i,200);
