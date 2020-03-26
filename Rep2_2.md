@@ -1,4 +1,6 @@
-...
+#Rep2_2.md
+##안동대 
+'''
 
 PFont f;
 void setup(){
@@ -19,4 +21,4 @@ void keyPressed(){
   sp = key - '0';
 }
 
-...
+'''
