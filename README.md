@@ -1,22 +1,22 @@
 # processing
 Processing for Graphics
 
-Link: [1주차 코드][googlelink]
+Link: [1주차 코드][1Link]
 
-[googlelink]: https://google.com "Go google"
+[1Link]: https://google.com "Go google"
 
-Link: [2주차 코드][googlelink]
+Link: [2주차 코드][2Link]
 
-[googlelink]: https://google.com "Go google"
+[2Link]: https://google.com "Go google"
 
-Link: [3주차 코드][googlelink]
+Link: [3주차 코드][3Link]
 
-[googlelink]: https://google.com "Go google"
+[3Link]: https://google.com "Go google"
 
-Link: [4주차 코드][googlelink]
+Link: [4주차 코드][4Link]
 
-[googlelink]: https://google.com "Go google"
+[4Link]: https://google.com "Go google"
 
-Link: [5주차 코드][googlelink]
+Link: [5주차 코드][5Link]
 
-[googlelink]: https://google.com "Go google"
+[5Link]: https://google.com "Go google"
