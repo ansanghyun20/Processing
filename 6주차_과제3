@@ -1,0 +1,48 @@
+# 3주차 코드 중
+## 원이 벽에 닿으면 튕기는 프로그램
+## 원이 벽에 닿을 때 방향 전환의 옵션으로 원의 방향을 바꿀 수 있다.
+```
+
+int rad = 60;        // 원의 크기 저장
+float xpos, ypos;    // 원의 시작 위치   
+
+float xspeed = 2.8;  // 원의 스피드 조절
+float yspeed = 2.2;  
+
+int xdirection = 1;  // 왼쪽과 오른쪽 방향 설정 (X축)
+int ydirection = 1;  // 위 아래의 방향 설정 (Y축)
+
+
+void setup() 
+{
+  size(640, 360);
+  noStroke();
+  frameRate(60);
+  ellipseMode(RADIUS); //원의 반지름 모드 
+  // 시작 지점 설정
+  xpos = width/2;
+  ypos = height/2;
+}
+
+void draw() 
+{
+  background(102);
+  
+  // 원의 위치를 저장
+  xpos = xpos + ( xspeed * xdirection );
+  ypos = ypos + ( yspeed * ydirection );
+  
+
+  // 벽에 닿았을 때 원의 방향을 변경 설정 해준다.
+  if (xpos > width-rad || xpos < rad) {
+    xdirection *= -1;
+  }
+  if (ypos > height-rad || ypos < rad) {
+    ydirection *= -1;
+  }
+
+  ellipse(xpos, ypos, rad, rad);
+}
+
+```
+
