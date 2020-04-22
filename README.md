@@ -11,12 +11,12 @@ Link: [2주차 코드][2Link]
 
 Link: [3주차 코드][3Link]
 
-[3Link]: https://google.com "Go google"
+[3Link]: https://github.com/ansanghyun20/processing/blob/master/6%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C3.md
 
 Link: [4주차 코드][4Link]
 
-[4Link]: https://google.com "Go google"
+[4Link]: https://github.com/ansanghyun20/processing/blob/master/6%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C4.md
 
 Link: [5주차 코드][5Link]
 
-[5Link]: https://google.com "Go google"
+[5Link]: https://github.com/ansanghyun20/processing/blob/master/6%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C5.md
