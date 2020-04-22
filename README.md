@@ -3,7 +3,7 @@ Processing for Graphics
 
 Link: [1주차 코드][1Link]
 
-[1Link]: https://google.com "Go google"
+[1Link]: https://github.com/ansanghyun20/processing/blob/master/6%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C1.md
 
 Link: [2주차 코드][2Link]
 
